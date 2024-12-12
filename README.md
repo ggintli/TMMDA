@@ -7,3 +7,7 @@ It is a solution template for Microsoft Fabric users seeking a prepared view of 
 
 This repository contains the PBI report template, which is described in the following article:
 [Semantic model analysis in Microsoft Fabric | TMMDA](https://techcommunity.microsoft.com/t5/analytics-on-azure-blog/semantic-model-analysis-in-microsoft-fabric-tmmda/ba-p/4123645)
+
+
+
+![alt text](https://github.com/ggintli/tmmda/blob/main/assets/TMMDA_Getting_Started_in_Service.png)
